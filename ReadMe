@@ -1,0 +1,7 @@
+Using Google Apps Script: 
+User fills out a form to sign up. This triggers a series of emails that include novel writing prompts 
+(in the style of The Snowflake Novel Writing method (Randy Ingermanson)). 
+
+Each user's responses is collated. 
+
+Upon completion of the series, users receive a link to a spreadsheet with their responses.
